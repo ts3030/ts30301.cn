@@ -1,0 +1,201 @@
+@font-face {
+    font-family: "icon";
+    src: url("font_1176299_94bq81l61x-15671316.eot"/*tpa=http://tg.cyj21.cn/fonts/font_1176299_94bq81l61x-15671316.eot*/);
+    /* IE9 */
+    src: url("font_1176299_94bq81l61x-15671316.eot#iefix"/*tpa=http://tg.cyj21.cn/fonts/font_1176299_94bq81l61x-15671316.eot#iefix*/) format('embedded-opentype'),
+        /* IE6-IE8 */
+        url("h1yqLShxsN2SzqEQZYFF1AfdhSreqIEh"/*tpa=http://tg.cyj21.cn/h1yqLShxsN2SzqEQZYFF1AfdhSreqIEh*/) format('woff2'),
+        url("font_1176299_94bq81l61x-156713161.woff"/*tpa=http://tg.cyj21.cn/fonts/font_1176299_94bq81l61x-156713161.woff*/) format('woff'),
+        url("font_1176299_94bq81l61x-156713162.ttf"/*tpa=http://tg.cyj21.cn/fonts/font_1176299_94bq81l61x-156713162.ttf*/) format('truetype'),
+        /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+        url("font_1176299_94bq81l61x-156713163.svg#icon"/*tpa=http://tg.cyj21.cn/img/font_1176299_94bq81l61x-156713163.svg#icon*/) format('svg');
+    /* iOS 4.1- */
+}
+
+.icon {
+    font-family: "icon" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-star-o:before {
+    content: "\e627";
+}
+
+.icon-price:before {
+    content: "\e60c";
+}
+
+.icon-user:before {
+    content: "\e60d";
+}
+
+.icon-android:before {
+    content: "\e604";
+}
+
+.icon-star:before {
+    content: "\e67f";
+}
+
+.icon-weixin:before {
+    content: "\e61a";
+}
+
+.icon-time:before {
+    content: "\e65e";
+}
+
+.icon-bofang:before {
+    content: "\e609";
+}
+
+.icon-users:before {
+    content: "\e6ca";
+}
+
+.icon-safe:before {
+    content: "\e63b";
+}
+
+.icon-search:before {
+    content: "\e6b7";
+}
+
+.icon-user1:before {
+    content: "\e635";
+}
+
+.icon-home:before {
+    content: "\e600";
+}
+
+.icon-comment:before {
+    content: "\e606";
+}
+
+.icon-cart:before {
+    content: "\e630";
+}
+
+.icon-play:before {
+    content: "\e63f";
+}
+
+.icon-download:before {
+    content: "\e601";
+}
+
+.icon-desc:before {
+    content: "\e612";
+}
+
+.icon-wechat:before {
+    content: "\ead1";
+}
+
+.icon-cate:before {
+    content: "\e8cd";
+}
+
+.icon-home-o:before {
+    content: "\e605";
+}
+
+.icon-download-o:before {
+    content: "\e718";
+}
+
+.icon-ios:before {
+    content: "\e60a";
+}
+
+.icon-asc:before {
+    content: "\e603";
+}
+
+.icon-fire:before {
+    content: "\e608";
+}
+
+.icon-tap:before {
+    content: "\e72c";
+}
+
+.icon-username:before {
+    content: "\e610";
+}
+
+.icon-down:before {
+    content: "\e60e";
+}
+
+.icon-club:before {
+    content: "\e64b";
+}
+
+.icon-club-o:before {
+    content: "\e64c";
+}
+
+.icon-check:before {
+    content: "\e711";
+}
+
+.icon-comment-o:before {
+    content: "\e6d3";
+}
+
+.icon-wechat-square:before {
+    content: "\e768";
+}
+
+.icon-price-o:before {
+    content: "\e967";
+}
+
+.icon-store:before {
+    content: "\e602";
+}
+
+.icon-unlock:before {
+    content: "\e622";
+}
+
+.icon-zan:before {
+    content: "\e607";
+}
+
+.icon-look:before {
+    content: "\e614";
+}
+
+.icon-manager:before {
+    content: "\e60f";
+}
+
+.icon-arrow-down:before {
+    content: "\e60b";
+}
+
+.icon-client:before {
+    content: "\e62d";
+}
+
+.icon-leiliu:before {
+    content: "\e657";
+}
+
+.icon-close:before {
+    content: "\e618";
+}
+
+.icon-liu:before {
+    content: "\6d41";
+}
+
+.icon-lie:before {
+    content: "\730e";
+}
